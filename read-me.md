@@ -28,4 +28,4 @@ Step-by-step instructions to set up the project locally. For example:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/SBMStudiosDesigns/FoodSite.git
